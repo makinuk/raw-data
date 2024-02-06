@@ -1,8 +1,8 @@
 [
   {"id":1000, "name": "Mustafa", "rule":"mustafa*"},
-  {"id":1001,"name":"Erdoğan", "rule": "(\"recep tayyip erdoğan\") OR (recep tayyip erdoğan) OR (cumhurbaşkanı)"},
+  {"id":1001,"name":"Erdoğan", "rule": "(\"recep tayyip erdogan\") OR (recep tayyip erdogan) OR (cumhurbaskani)"},
   {"id":1001,"name":"haberler","rule":"haberler*"},
-  {"id":1001,"name":"bu gün","rule":"\"bu gün\""},
+  {"id":1001,"name":"bu gün","rule":"\"bu gun\""},
   {"id":1001,"name":"Bakalım","rule":"bakalım*"},
   {"id":1001,"name":"Haber","rule":"haber*"}
 ]
