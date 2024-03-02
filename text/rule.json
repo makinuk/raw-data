@@ -1,6 +1,6 @@
 [
   {"id":1000, "name": "Mustafa", "rule":"mustafa*"},
   {"id":1001,"name":"haberler","rule":"haber*"},
-  {"id":1002,"name":"bu gün","rule":"bugun OR (\"bu gün\")"},
-  {"id":1003,"name":"Bağcılar","rule":"bağcılar*"}
+  {"id":1003,"name":"Bağcılar Belediyesi","rule":"bağcılar* AND belediye*"}
+  {"id":1004,"name":"Belediye","rule":"belediye*"}
 ]
